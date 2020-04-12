@@ -1,2 +1,2 @@
 # masterclass.java
-Exercises Masterclass Java by Tim Buchalka
+Exercises from Masterclass Java by Tim Buchalka
